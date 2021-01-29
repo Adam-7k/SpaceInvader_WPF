@@ -1,0 +1,15 @@
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\bin\Debug\ScapeInvader_WPF.exe.config
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\bin\Debug\ScapeInvader_WPF.exe
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\bin\Debug\ScapeInvader_WPF.pdb
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.csprojAssemblyReference.cache
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\MainWindow.g.cs
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\App.g.cs
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF_MarkupCompile.cache
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF_MarkupCompile.lref
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\MainWindow.baml
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.g.resources
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.Properties.Resources.resources
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.csproj.GenerateResource.cache
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.csproj.CoreCompileInputs.cache
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.exe
+E:\.NetorC++\.net\WPF\ScapeInvader_WPF\ScapeInvader_WPF\obj\Debug\ScapeInvader_WPF.pdb
